@@ -12,3 +12,6 @@ strong { color: var(--tinta); }
 a { color: var(--amarelo); }
 .cartao { background: var(--superficie); border: 1px solid var(--linha); border-radius: 16px; padding: 16px 20px; margin: 16px 0; }
 footer { margin-top: 48px; border-top: 1px solid var(--linha); padding-top: 16px; font-size: 0.95rem; }
+.passo { margin: 32px 0; }
+.passo img { display: block; width: 100%; max-width: 360px; border-radius: 16px; border: 1px solid var(--linha); margin: 12px 0; }
+ol li, ul li { margin: 6px 0; }
